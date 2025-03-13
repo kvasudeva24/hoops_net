@@ -24,7 +24,7 @@ percenatge of 16ft to 3 --> ShotLocations(Mid-Range_FG_PCT)
 '''
 
 
-years = ["2018-19", "2019-20", "2020-21", "2021-22", "2022-23", "2023-24"]
+years = ["2009-10","2010-11", "2011-12", "2012-13"]
 for year in years:
     #deals with the advanced stats listed above
     #need to obtain the differnet columns that I need
